@@ -96,6 +96,7 @@ Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidade
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
 <p>
   <img 
     align="left" 
@@ -111,5 +112,7 @@ Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidade
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaalvarengadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+</p>
 
 </p>
