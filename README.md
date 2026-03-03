@@ -34,6 +34,7 @@ Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidade
 
 ### 🤖 Linguagens e Tecnologias
 
+<p>
 <img 
     align="left" 
     alt="HTML"
@@ -90,29 +91,14 @@ Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidade
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+</p>
 
-<br/>
-<br/>
+<br clear="all" />
+<br />
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gaalvarengadev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaalvarengadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaalvarengadev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaalvarengadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
