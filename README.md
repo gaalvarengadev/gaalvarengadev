@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gabriel Alvarenga
+# Gabriel Alvarenga
 
 **`Desenvolvedor Front End`**
 
@@ -32,7 +32,7 @@ Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidade
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <p>
 <img 
