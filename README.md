@@ -1,7 +1,5 @@
 # Gabriel Alvarenga
 
-**`Desenvolvedor Front End`**
-
 Me chamo Gabriel de Alvarenga, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software na [UMC](https://www.umc.br/). Sou apaixonado por tecnologia e por criar interfaces modernas, intuitivas e responsivas. Meu foco principal é transformar ideias em código e entregar a melhor experiência possível para o usuário. 
 
 Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e enfrentar novos desafios no desenvolvimento web. Fique à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
